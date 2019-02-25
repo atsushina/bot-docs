@@ -46,6 +46,9 @@ Create a new Messaging API channel by clicking on the green square.
 
 The name cannot include "LINE" or some similar string. Fill out the required fields and confirm your channel settings.
 
+> [!IMPORTANT]
+> To send a message from LINE to bot, check "Developer" plan for testing. If you select "FREE" plan, the bot cannot push a message to LINE.
+
 ![LINE screenshot channel settings](./media/channels/LINE-screenshot-4.png)
 
 ## Get necessary values from your channel settings
